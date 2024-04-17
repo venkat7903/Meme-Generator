@@ -1,7 +1,5 @@
 In this project, let's build a **Meme Generator** app by applying the concepts we have learned till now.
 
-project link - https://venkatmemegener.ccbp.tech/
-
 ### Refer to the image below:
 
 <br/>
